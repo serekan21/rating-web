@@ -38,7 +38,7 @@ html {
   padding: 8px 16px;
   font-family: "Graduate", sans-serif;
   background-color: #444;
-  line-height: 1.5;
+  line-height: 1.7;
   border-radius: 0px;
 }
 
